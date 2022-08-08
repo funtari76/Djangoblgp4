@@ -1,0 +1,1 @@
+web: ganicorn ecommerce.wsgi:application
